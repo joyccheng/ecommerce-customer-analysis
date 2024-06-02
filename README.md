@@ -3,7 +3,7 @@ Understanding Customer and Purchase Behaviors \
 2024-03-01
 
 > [!TIP]
-> Click [**HERE**](https://www.kaggle.com/code/joyccheng/e-commerce-customer-analysis) to view visualizations on Kaggle.
+> Click [**HERE**](https://www.kaggle.com/code/joyccheng/e-commerce-customer-analysis) to view the full data analysis documentation and visualizations on *Kaggle*.
 
 ### Introduction
 This synthetic dataset offers information about each transaction within an online marketplace, including customer demographics such as gender and age, as well as purchase data. While it may not provide exhaustive customer details, it encompasses essential information crucial for analysis. Specifically designed to facilitate analytical and predictive purposes, it enables tasks such as trend analysis, examination of purchase behavior, market basket analysis, and customer churn prediction. By leveraging this dataset, companies and analysts can explore the dynamics of online consumer behavior, deriving valuable insights to inform strategic decision-making in e-commerce.
